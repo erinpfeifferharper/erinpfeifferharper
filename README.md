@@ -59,9 +59,4 @@
 </div>
 
 ###
-
-<h2 align="left">GitHub stats</h2>
-
-![Erin's GitHub stats](https://github-readme-stats.vercel.app/api?username=erinpfeifferharper&theme=dracula&show_icons=true)
-
 ###
