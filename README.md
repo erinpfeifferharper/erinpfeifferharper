@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Bachelor of Arts in Digital Art, University of the Witwatersrand<br>Coding Instructor at Code First Girls<br>Currently learning Back-end Development on Udemy</p>
+<p align="left">Bachelor of Arts in Digital Art Honours, University of the Witwatersrand<br>Coding Instructor at Code First Girls<br></p>
 
 ###
 
